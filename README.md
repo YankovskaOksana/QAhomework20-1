@@ -1,2 +1,2 @@
-# QAhomework20-1
+# QAhomework20-1 oksana.yankovska.gitpractice
 Changes

@@ -1,0 +1,29 @@
+
+body {
+  background-color: lightblue;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+.block1 {
+  color: darkblue;
+  background-color: aqua;
+}
+#block2 {
+  color: #5d08e6;
+}
+.blockimg {
+  animation-name: myAnimation;
+  animation-duration: 10s;
+}
+@keyframes myAnimation {
+  from {rotate: 0deg;}
+  to {rotate: 360deg;}
+}
